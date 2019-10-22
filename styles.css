@@ -64,5 +64,3 @@ ul {
 .todo-container:first-of-type {
   border-top: 1px solid #333;
 }
-
-import render from 'react'
